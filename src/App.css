@@ -439,3 +439,10 @@ html {
         padding: 100% 3px 5px 3px;
     }
 }
+
+@media screen and (max-width: 321px){
+    .links-menu li a{
+        font-size: 15px;
+        padding: 100% 3px 5px 3px;
+    }
+}
