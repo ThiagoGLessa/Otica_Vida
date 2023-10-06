@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Otica_Vida/static/css/main.274634ad.css",
+    "main.js": "/Otica_Vida/static/js/main.72a533c2.js",
+    "static/js/787.12619fe8.chunk.js": "/Otica_Vida/static/js/787.12619fe8.chunk.js",
+    "static/media/capa.png": "/Otica_Vida/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/Otica_Vida/index.html",
+    "main.274634ad.css.map": "/Otica_Vida/static/css/main.274634ad.css.map",
+    "main.72a533c2.js.map": "/Otica_Vida/static/js/main.72a533c2.js.map",
+    "787.12619fe8.chunk.js.map": "/Otica_Vida/static/js/787.12619fe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.274634ad.css",
+    "static/js/main.72a533c2.js"
+  ]
+}
